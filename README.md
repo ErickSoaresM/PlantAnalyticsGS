@@ -1,6 +1,6 @@
 <h1>🌹Plant Analytics🌹</h1>
 A API do aplicativo Plant Analytics, criada com o propósito de permitir que seus usuários enviem fotografias de suas plantas para análise e verificação, oferece a identificação de possíveis doenças e orientações para o tratamento adequado. Vale ressaltar que essa API foi desenvolvida como uma interface REST utilizando a linguagem de programação Java, com a utilização do Spring Framework, que inclui recursos como o Spring Data, Spring Security e Spring HATEOAS.
-<h2>Link Vídeo Pitch: </h2>
+<h2>Link Vídeo Pitch: https://youtu.be/gJoKOE3Mzqs </h2>
 <h2>Link Vídeo ENTERPRISE APPLICATION DEVELOPMENT:</h2>
 
 ><h2>Visão geral</h2>

@@ -28,6 +28,9 @@ A API do aplicativo Plant Analytics, criada com o propósito de permitir que seu
   + [Atualizar Cadastro](#atualizar-cadastro)
   + [Login](#login)
 + Analise
+  + [Listar Analise](#listar_analise)
+  + [Deletar Analise](#deletar_analise)
+  + [Criar Analise](#criar_analise)	 
 
 ><h2>Cadastrar</h2>
 `post` /api/usuario/cadastrar
@@ -198,5 +201,22 @@ A API do aplicativo Plant Analytics, criada com o propósito de permitir que seu
 > <tr>
 > <td>401</td>
 > <td>Usuário ou senha incorretos</td>
+> </tr>
+></table>
+
+><h2>Análise</h2>
+`post`/api/analise
+><table>
+> <tr>
+> <td>Resultado</td>
+> <td>Doença</td>
+> <td>Data de envio</td>
+> <td>Tipo de planta</td>
+> </tr>
+> <tr>
+> <td>Varchar</td>
+> <td>Varchar</td>
+> <td>Date</td>
+> <td>Varchar</td>
 > </tr>
 ></table>
